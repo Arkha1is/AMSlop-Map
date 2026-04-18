@@ -44,13 +44,13 @@ UnminedCustomMarkers = {
 
         // Example 2: Marker with text
         {
-            x: 0,
-            z: 0,
+            x: -1644,
+            z: 159,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
             text: "Overworld Spawn",
-            textColor: "red", 
+            textColor: "white", 
             offsetX: 0,
             offsetY: 0,
             font: "bold 20px Calibri,sans serif",
